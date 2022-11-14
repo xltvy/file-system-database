@@ -44,7 +44,7 @@ For the development of the project, Python is used.
 
 ### Details
 
-Any further detail is published in the project report, which can be reached here.
+Any further detail is published in the project report, which can be reached [here](https://github.com/xltvy/file-system-database/blob/main/project_report.pdf).
 
 ### How to Run
 
